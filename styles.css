@@ -1,0 +1,85 @@
+body{ 
+    background: black;
+    color: white;
+    margin-bottom: 50px;
+   } 
+   header{
+   border-bottom: solid 2px rgb(9, 45, 72, 1);
+   PADDING: 20px;
+   FONT-SIZE: 32px;
+   color:rgb(16, 64, 101, 1); 
+   font-family: "PT Serif", serif;
+  
+   
+   }
+
+   .bosta{
+ background: rgb(182, 127, 204, 1);
+ padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    
+ 
+
+}
+.bosta h1 {
+    margin-left: 50px;
+    font-size: 32px;
+}
+.bosta p{
+    margin-left:50px;
+    font-size: 25px;
+}
+.bosta div{
+    margin-right: 50px;
+}
+
+ .chamada-texto{
+ margin-right: 5%;
+
+}
+h1{
+margin-left: 20px;
+font-size: 40px;
+
+}
+
+p{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.bl{
+margin-right: 20px;
+
+}
+
+img{
+    height: 150px;
+}
+
+.caraio{
+display: flex;
+overflow-x: auto;
+gap: 10px;
+
+
+}
+.porra{
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.porra img{
+    opacity: 0.5;
+    height: 200px;
+}
+.porra img:hover{
+    opacity: 1;
+    border: 2px solid green;
+}
+.porra h2{
+    color: rgb(9, 45, 72, 1);
+}
